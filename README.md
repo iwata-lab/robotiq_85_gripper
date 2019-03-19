@@ -1,6 +1,8 @@
 # robotiq_85_gripper
 Common packages for the Robotiq 85 Gripper provided by Stanley Innovation
 
+This package require [roboticsgroup_gazebo_plugins](https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git).
+
 Defaults to 'ttyUSB0' and 115200 baud rate
 
 Single gripper and left gripper (in dual gripper configuration) need to be configured as device 9 using the Robotiq User Interface
